@@ -1,0 +1,35 @@
+.header {
+    color: black;
+    font-style: italic;
+}
+
+section {
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+section h1 {
+    text-align: center;
+}
+body {
+    background-image: url(assets/bg-pic.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
